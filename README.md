@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @03y
+- 👀 I’m interested in *Linux* and *programming*.
+- 🌱 I’m currently learning *Software Development*.
+- 📝 I'm currently working on *Web Development project (snooze)*.
+- 📫 How to reach me *u dont*.

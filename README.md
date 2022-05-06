@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @03y
-- 👀 I’m interested in *Linux* and *programming*.
-- 🌱 I’m currently learning *Software Development*.
+
